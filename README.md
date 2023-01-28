@@ -1,17 +1,17 @@
-# LEGENDS OF CODE AND MAGIC (CODINGAME)
+# A CODE OF ICE AND FIRE (CODINGAME)
 
 ## Contest result
 
-5,696 CodinGamers have registered to this contest. <br>
-My global rank: 153/2174. <br>
+7,052 CodinGamers have registered to this contest. <br>
+My global rank: 336/2160. <br>
 Leadersboard: <br>
-https://www.codingame.com/contests/legends-of-code-and-magic-marathon/leaderboard/global?column=keyword&value=Bezukh
+https://www.codingame.com/contests/a-code-of-ice-and-fire/leaderboard/global?column=keyword&value=Bezukh
 
 ## How program works
 
-The Monte Carlo method generates ~300,000 turn variations in ~100 ms. 
+The strategic map has been converted to a graph.
 
-From these variants the best one is selected through heuristics.
+Heuristics and Dijkstra's algorithm were used to achieve victory.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />These projects are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
