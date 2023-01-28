@@ -1,5 +1,7 @@
 # A CODE OF ICE AND FIRE (CODINGAME)
 
+CodinGame's global programming contest for 2019. The competition lasted 2 weeks.
+
 ## Contest result
 
 7,052 CodinGamers have registered to this contest. <br>
